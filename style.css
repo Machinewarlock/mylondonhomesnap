@@ -1,0 +1,142 @@
+body {
+  text-align:center;
+  font-family:Helvetica;
+  background:#004488;
+}
+
+canvas {
+  width:100%;
+  height:42%;
+  background:#5eb0e5;
+  border-radius:15px;
+  background-position:center;
+  background-size:30%;
+  background-repeat:repeat-x;
+}
+
+html, body, section {
+  height:100%;
+}
+
+h1 {
+  background:#f7d500;
+  padding:2%;
+  margin:2%;
+  border:2px solid black;
+  border-radius:40px;
+}
+
+p {
+  width:40%;
+  float:left;
+  padding:2%;
+  margin:2%;
+  border:2px solid black;
+  border-radius:40px;
+  background:#fff;
+  display:none;
+}
+
+span#preload-01 {
+  background: url("https://pbs.twimg.com/profile_images/573078574606897152/weZuar_E.png");
+}
+
+span#preload-02 {
+  background: url("https://www.mylondonhome.com/images/team/Steven-Herd.jpg");
+}
+
+span#preload-03 {
+  background: url("https://pbs.twimg.com/profile_images/574958181790580736/vp4Yza9g.jpeg");
+}
+
+span#preload-04 {
+  background: url("https://media.licdn.com/mpr/mpr/shrinknp_200_200/AAEAAQAAAAAAAAcKAAAAJDdiZmYxM2E2LTc2NzEtNDVkOS1iMTk5LWVlZTkxNjBiMmI0OQ.jpg");
+}
+
+span#preload-05 {
+  background: url("https://www.mylondonhome.com/images/team/Natalie.Pringle.jpg");
+}
+
+span#preload-06 {
+  background: url("https://www.mylondonhome.com/images/team/Julie-Webbe.jpg");
+}
+
+span#preload-07 {
+  background: url("https://www.mylondonhome.com/images/team/Adam-A.jpg");
+}
+
+span#preload-08 {
+  background: url("https://www.mylondonhome.com/images/team/Jamie-Williams.jpg");
+}
+
+span#preload-09 {
+  background: url("https://www.mylondonhome.com/images/team/TomG.jpg");
+}
+
+span#preload-10 {
+  background: url("https://www.mylondonhome.com/images/team/Hannah-Taylor.jpg");
+}
+
+span#preload-11 {
+  background: url("https://www.mylondonhome.com/images/team/Honor-Ara.jpg");
+}
+
+span#preload-12 {
+  background: url("https://www.mylondonhome.com/images/team/Laila-Braam.jpg");
+}
+
+span#preload-13 {
+  background: url("https://www.mylondonhome.com/images/team/Christian-Barr.jpg");
+}
+
+span#preload-14 {
+  background: url("https://www.mylondonhome.com/images/team/Billy-Hayes.jpg");
+}
+
+span#preload-15 {
+  background: url("https://www.mylondonhome.com/images/team/Lisa-Yoshimoto.jpg");
+}
+
+span#preload-16 {
+  background: url("https://www.mylondonhome.com/images/team/Ellis-Street.jpg");
+}
+
+span#preload-17 {
+  background: url("https://www.mylondonhome.com/images/team/Janice-Davis.jpg");
+}
+
+span#preload-18 {
+  background: url("https://www.mylondonhome.com/images/team/Sami-James.jpg");
+}
+
+span#preload-19 {
+  background: url("https://www.mylondonhome.com/images/team/Fatma-Azakli.jpg");
+}
+
+span#preload-20 {
+  background: url("https://www.mylondonhome.com/images/team/Harriet-Sexton.jpg");
+}
+
+span#preload-21 {
+  background: url("https://www.mylondonhome.com/images/team/George-Chambi.jpg");
+}
+
+span#preload-22 {
+  background: url("https://www.mylondonhome.com/images/team/Shaneeka.Petrie-Belmar.jpg");
+}
+
+span#preload-23 {
+  background: url("https://www.mylondonhome.com/images/team/Claire-Duhig.jpg");
+}
+
+span#preload-24 {
+  background: url("https://www.mylondonhome.com/images/team/Kirsten-Rodwell.jpg");
+}
+
+span#preload-25 {
+  background: url("https://www.mylondonhome.com/images/team/Kim-Staples.jpg");
+}
+
+span#preload-26 {
+  background: url("https://www.mylondonhome.com/images/team/Michelle-Pierce.jpg");
+}
